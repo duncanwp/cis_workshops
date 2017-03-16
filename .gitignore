@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Office documents
+*.doc
+*.docx
+*.ppt
+*.pptx
