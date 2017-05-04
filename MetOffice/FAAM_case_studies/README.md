@@ -1,4 +1,4 @@
-IS meets FAAM - Example data sets
+CIS meets FAAM - Example data sets
 ==================================
 
 The list is ordered in the suggested order they should be done. The examples further down in the list become more advanced.
