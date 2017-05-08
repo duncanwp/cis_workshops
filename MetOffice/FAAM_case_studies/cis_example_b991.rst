@@ -42,7 +42,9 @@ And print some statistics about the TAT_DI_R variable::
       TAT_DI_R:core_faam_20161024_v004_r0_b991_1hz_edited.nc
 
 .. note:: 
-    We can remove the warnings about the invalid units using the quiet flag::
+    We can remove the warnings about the invalid units using the quiet flag.
+    
+Like this::    
 
     cis -q stats TAT_ND_R:core_faam_20161024_v004_r0_b991_1hz_edited.nc \
       TAT_DI_R:core_faam_20161024_v004_r0_b991_1hz_edited.nc
